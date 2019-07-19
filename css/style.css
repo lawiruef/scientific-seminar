@@ -228,4 +228,20 @@ button {
     padding-right: 15px;
     padding-left: 15px; } }
 
+@media screen and (max-width: 420px) {
+  #mb {
+    font-size:11px !important;
+  }
+}
+@media screen and (max-width: 375px) {
+  #mb {
+    font-size:14px !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  #mb {
+    font-size:11px !important;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
